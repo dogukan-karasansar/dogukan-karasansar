@@ -13,7 +13,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://instagram.fist6-1.fna.fbcdn.net/v/t51.2885-19/s320x320/264000872_3063066727295169_3860778147181466700_n.jpg?_nc_ht=instagram.fist6-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=1IYQL-WMuZwAX9ISXm7&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT_Oe85Xy7pYqw6kNOWrHPMLUgA6seUh4jEStbJz2KGIgg&oe=61D0CE6D&_nc_sid=7bff83">
+</div>
   
   ##
  
