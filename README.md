@@ -24,7 +24,7 @@
   <a href = "mailto:dogukan_14072002@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/do%C4%9Fukan-krsnsr-627770194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/dogukan-karasansar/dogukan-karasansar/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/dogukan-karasansar/dogukan-karasansar/blob/output/github-contribution-grid-snake.gif)
  
 </div>
 
